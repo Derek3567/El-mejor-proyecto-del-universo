@@ -1,0 +1,9 @@
+ANIMACION DE MANO SENIX
+
+Archivo principal: index.html
+
+Para abrirla:
+1. Extrae la carpeta si la recibiste como ZIP.
+2. Abre index.html con doble clic en un navegador moderno.
+
+La animacion, SVG, estilos y codigo JavaScript estan incluidos en ese unico archivo. Las fuentes Orbitron y Chakra Petch se cargan desde Google Fonts cuando hay internet; sin conexion se usan fuentes alternativas.
